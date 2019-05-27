@@ -13,19 +13,19 @@ class TestReport:
     def test_002(self):
         print("s")
         assert True
-
+    
     @pytest.allure.severity(pytest.allure.severity_level.NORMAL)
     @allure.step("这是一个测试方法描述步骤3")
     def test_003(self):
         print("s")
-        assert False
-
+        assert True
+    
     @pytest.allure.severity(pytest.allure.severity_level.MINOR)
     @allure.step("这是一个测试方法描述步骤4")
     def test_004(self):
         print("s")
         assert True
-
+    
     @pytest.allure.severity(pytest.allure.severity_level.TRIVIAL)
     @allure.step("这是一个测试方法描述步骤5")
     def test_005(self):
