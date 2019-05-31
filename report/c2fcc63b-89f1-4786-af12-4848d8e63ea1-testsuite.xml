@@ -1,0 +1,54 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1559196886116" stop="1559196939149">
+  <name>test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1559196886116" status="passed" stop="1559196912889">
+      <name>TestLogin.test_login_fail[login_009-18800001111-159357li-\u4e0d\u5b58\u5728-\u6b64\u7528\u6237\u4e0d\u5b58\u5728]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9752-MainThread"/>
+        <label name="host" value="DESKTOP-DG84O76"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1559196912890" status="passed" stop="1559196921580">
+      <name>TestLogin.test_login_fail[login_010-15869188932-159357-\u9519\u8bef-\u767b\u5f55\u5bc6\u7801\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9752-MainThread"/>
+        <label name="host" value="DESKTOP-DG84O76"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1559196921581" status="passed" stop="1559196930626">
+      <name>TestLogin.test_login_fail[login_013-appium-159357-\u4e0d\u5b58\u5728-\u6b64\u7528\u6237\u4e0d\u5b58\u5728]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9752-MainThread"/>
+        <label name="host" value="DESKTOP-DG84O76"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1559196930627" status="passed" stop="1559196939149">
+      <name>TestLogin.test_login_fail[login_016-Double1213-15931593159315931-\u9519\u8bef-\u767b\u5f55\u5bc6\u7801\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9752-MainThread"/>
+        <label name="host" value="DESKTOP-DG84O76"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
